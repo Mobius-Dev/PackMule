@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4988cce9b97ea84eaab1d0e93194dfa, type: 3}
+  m_Name: Gemstones
+  m_EditorClassIdentifier: 
+  _name: Gemstones
+  _content:
+  - {fileID: 11400000, guid: 8db21db3191f80f4aafff407b1659890, type: 2}
+  - {fileID: 11400000, guid: 584566735997ed841a7b124b2486a023, type: 2}
+  - {fileID: 11400000, guid: bd98999213d08b74ba136566a71e2bf9, type: 2}
+  - {fileID: 11400000, guid: da22d22a2ddba7245bb4e63a810a4297, type: 2}
+  - {fileID: 11400000, guid: c3fc8b9af59eaa0449b1b233b42e4376, type: 2}
+  - {fileID: 11400000, guid: 3fe274f5534a98b40ba27b6cbce8b010, type: 2}
+  - {fileID: 11400000, guid: e1ab4d5fb83f89845a03dbebf4cbcf97, type: 2}
+  - {fileID: 11400000, guid: 044eaef96927e494397290b2cb793277, type: 2}
+  - {fileID: 11400000, guid: 6a3144d129f1fe4499511b1d30bebba7, type: 2}
+  - {fileID: 11400000, guid: e017d04f3f2f8da4fa3fc5d05bb1a2a3, type: 2}
+  - {fileID: 11400000, guid: 513e350c867007646bf0021f87623d0f, type: 2}
+  - {fileID: 11400000, guid: b4b0986a5b1e10742a4ab954adf6bae6, type: 2}
+  - {fileID: 11400000, guid: 6775ba1ab6acbfc4b91c72a127d67d44, type: 2}
+  - {fileID: 11400000, guid: 97f3da3686f1faf44b69b12fdcb3fa3d, type: 2}
+  _subPools: []

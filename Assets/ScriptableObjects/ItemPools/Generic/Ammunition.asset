@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4988cce9b97ea84eaab1d0e93194dfa, type: 3}
+  m_Name: Ammunition
+  m_EditorClassIdentifier: 
+  _name: Ammunition
+  _content:
+  - {fileID: 11400000, guid: b01cdf9324da1e94eb3272851512286a, type: 2}
+  - {fileID: 11400000, guid: 651a2ca405f096148a8a928864e28b0f, type: 2}
+  - {fileID: 11400000, guid: 2287098f6c1c1284badb603cf2fe7ef3, type: 2}
+  - {fileID: 11400000, guid: dfc5f5bffda82c44f8274d7fe3362d34, type: 2}
+  - {fileID: 11400000, guid: 1816c07ecbf88074eb1ac6f3dcaaf721, type: 2}
+  - {fileID: 11400000, guid: 363cec801b7508c44bdc1d2dcb8d8567, type: 2}
+  - {fileID: 11400000, guid: 726e1548ed0264a45aa616c7cb78db59, type: 2}
+  - {fileID: 11400000, guid: 41049066f8dc30e42a608d2239686c70, type: 2}
+  - {fileID: 11400000, guid: 726e1548ed0264a45aa616c7cb78db59, type: 2}
+  - {fileID: 11400000, guid: dc26cb75b94e74a47b38e5e4393d2eef, type: 2}
+  _subPools: []

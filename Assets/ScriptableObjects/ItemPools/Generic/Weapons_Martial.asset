@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4988cce9b97ea84eaab1d0e93194dfa, type: 3}
+  m_Name: Weapons_Martial
+  m_EditorClassIdentifier: 
+  _name: Weapons_Martial
+  _content:
+  - {fileID: 11400000, guid: 845f242f13075394db9c5ab1e12aa81e, type: 2}
+  - {fileID: 11400000, guid: 4e709b48b3c0f2045b24b8f6f1a93d67, type: 2}
+  - {fileID: 11400000, guid: 479419c8a617d8d4b89e16489607d25c, type: 2}
+  - {fileID: 11400000, guid: fd5f8c6497132eb4a9b953219fa24178, type: 2}
+  - {fileID: 11400000, guid: ca10ce7082e44ca4b86c9944eada683a, type: 2}
+  - {fileID: 11400000, guid: 3bcefd2fa3e7b8e45a3ab8c47c6948e3, type: 2}
+  - {fileID: 11400000, guid: 75faf74b5620a244894dbc1ac8a5c6ff, type: 2}
+  - {fileID: 11400000, guid: c0191cdba04e7e944a28186884feb3e6, type: 2}
+  _subPools: []

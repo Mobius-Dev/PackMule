@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4988cce9b97ea84eaab1d0e93194dfa, type: 3}
+  m_Name: Trinkets
+  m_EditorClassIdentifier: 
+  _name: TrinketsBox
+  _content:
+  - {fileID: 11400000, guid: 31140de0ad070834cba48d3c19f95938, type: 2}
+  - {fileID: 11400000, guid: bf4611ba5fe23634c97e73f19a7f9125, type: 2}
+  - {fileID: 11400000, guid: ff336faefe41c1849bcab1b6bdfb4e76, type: 2}
+  - {fileID: 11400000, guid: 6dfeb54cafbe9e749b9e4bd7f6de3fe0, type: 2}
+  - {fileID: 11400000, guid: 7d078df69267e474a956078e2dec57fb, type: 2}
+  - {fileID: 11400000, guid: 51969ff3352be2f4e8f633b034f503e0, type: 2}
+  - {fileID: 11400000, guid: 2b34a9c644ae74b4d8e405c63f3f8480, type: 2}
+  - {fileID: 11400000, guid: 9b7fa7ed406f6bc408a4017218926cb7, type: 2}
+  - {fileID: 11400000, guid: f5cd5c663d0685d4cb570dfb7e5d1f39, type: 2}
+  - {fileID: 11400000, guid: 2ebf14636aafa6542ad338a5bf7c2275, type: 2}
+  - {fileID: 11400000, guid: caac80c2325509b4da2a9e4f0e1664d7, type: 2}
+  - {fileID: 11400000, guid: f59173da0702ddc4f86a90e8b31b6316, type: 2}
+  - {fileID: 11400000, guid: cfba438e2067eff418f93e2012b3b701, type: 2}
+  - {fileID: 11400000, guid: 021a8d618e7401044a3066de4c8d78cf, type: 2}
+  - {fileID: 11400000, guid: 5adef2df325cfc545a7757252694fdc5, type: 2}
+  - {fileID: 11400000, guid: 58e1556e976bf5443b49bafac51e51b6, type: 2}
+  - {fileID: 11400000, guid: 9ab80ec56a71ae548be408e13530f042, type: 2}
+  _subPools: []

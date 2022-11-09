@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4988cce9b97ea84eaab1d0e93194dfa, type: 3}
+  m_Name: Armor_All
+  m_EditorClassIdentifier: 
+  _name: Armor_All
+  _content:
+  - {fileID: 11400000, guid: a4a2c4e88d7a57d4cb81f2b70d193ed5, type: 2}
+  - {fileID: 11400000, guid: a76e5ff5c3cb82b46abd0653d82e79a1, type: 2}
+  - {fileID: 11400000, guid: 2f54072cb648d904bb2fb11c1b3c0f47, type: 2}
+  - {fileID: 11400000, guid: 8a674e6a53f233f4289c90150004756a, type: 2}
+  - {fileID: 11400000, guid: 8047790c530ddb342a39a7d22985c054, type: 2}
+  - {fileID: 11400000, guid: e757f4aa6e716c5498b122cbc31a857e, type: 2}
+  - {fileID: 11400000, guid: 4cdae88010b8d0647b847b9f7ccaf9f6, type: 2}
+  - {fileID: 11400000, guid: 662d24426586b9a408c2da1e5164f0d1, type: 2}
+  - {fileID: 11400000, guid: 5aebc5371ceece542981e2045ed71370, type: 2}
+  - {fileID: 11400000, guid: 25ba88763a3e7284fbf3dd513d9addb6, type: 2}
+  _subPools: []
